@@ -3,9 +3,9 @@
 
 ![Icon](https://user-images.githubusercontent.com/6248794/146649603-cfc7f97a-83eb-4deb-bd64-01b3645fed2f.png)
 
-[Discussion ➤ for HoRNDIS on my Page](https://github.com/chris1111/HoRNDIS/discussions)
+[Discussion ➤ for HoRNDIS on my Page](https://github.com/GeorgeV220/HoRNDIS/discussions)
 
-[Open Issue ➤ for HoRNDIS](https://github.com/chris1111/HoRNDIS/issues)
+[Open Issue ➤ for HoRNDIS](https://github.com/GeorgeV220/HoRNDIS/issues)
 
 ** HoRNDIS ** (pronounce: *"horrendous"*) is a driver for Mac OS X that allows you to use your Android phone's native [USB tethering](http://en.wikipedia.org/wiki/Tethering) mode to get Internet access.
 
@@ -17,9 +17,9 @@ For more information, [visit the home page for HoRNDIS on my site](http://www.jo
 
 * Build All Source ✅  You need Xcode installed ([➤ Build](#Building-the-source-and-the-Package) Source and package from CommandLine)
 
-* Signing PKGs ➤ [Signing Package](https://github.com/chris1111/HoRNDIS/blob/master/Signing%20PKGs.pdf)
+* Signing PKGs ➤ [Signing Package](https://github.com/GeorgeV220/HoRNDIS/blob/master/Signing%20PKGs.pdf)
 
-* Get the installation package [Download Release](https://github.com/chris1111/HoRNDIS/releases/tag/rel9.2)
+* Get the installation package [Download Release](https://github.com/GeorgeV220/HoRNDIS/releases/tag/rel9.2)
 
 * Run the installation package for Apple Intel
 - See  ➤ [Package Installation for Apple Intel](https://user-images.githubusercontent.com/6248794/147510275-100e705a-5471-4550-a393-d76c78e6d8ad.png)
@@ -45,7 +45,7 @@ For more information, [visit the home page for HoRNDIS on my site](http://www.jo
   * Select "Tethering & portable hotspot"
 * Check the "USB tethering" box. It should flash once, and then become solidly checked.
 
-## HoRNDIS with SIP Enable [Download Release](https://github.com/chris1111/HoRNDIS/releases/tag/SIP-Enable)
+## HoRNDIS with SIP Enable [Download Release](https://github.com/GeorgeV220/HoRNDIS/releases/tag/SIP-Enable)
 
 ## Uninstallation
 
@@ -55,7 +55,7 @@ For more information, [visit the home page for HoRNDIS on my site](http://www.jo
 ## Building the source and the Package
 
 ```bash
-git clone --recursive https://github.com/chris1111/HoRNDIS.git
+git clone --recursive https://github.com/GeorgeV220/HoRNDIS.git
 ```
 
 ```bash
